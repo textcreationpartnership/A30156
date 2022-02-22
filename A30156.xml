@@ -1,0 +1,917 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of curious manuscripts being historical, political, theological, juri[dic]ial, physical, and philosophical, with so[me] poets and orators, their writings, an[cien]t and modern / collected by Sir James Balfour ...</title>
+            <author>Balfour, James, Sir, 1600-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30156</idno>
+            <idno type="STC">Wing B554</idno>
+            <idno type="STC">ESTC R17341</idno>
+            <idno type="EEBO-CITATION">12011359</idno>
+            <idno type="OCLC">ocm 12011359</idno>
+            <idno type="VID">52421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52421)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 81:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of curious manuscripts being historical, political, theological, juri[dic]ial, physical, and philosophical, with so[me] poets and orators, their writings, an[cien]t and modern / collected by Sir James Balfour ...</title>
+                  <author>Balfour, James, Sir, 1600-1657.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and succeesors [sic] of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. 3.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+                  <note>Imperfect: t.p. mutilated, some letters missing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manuscripts --  Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52421:1" rendition="simple:additions"/>
+            <p>A CATALOGUE Of Curious <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ANUSCRIPTS,</hi>
+            </p>
+            <p>BEING <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>orical, Political, Theological, Juri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>al, Phyſical, and Philoſophical, with <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Poets and Orators, their Writings, Anc<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt and Modern.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ected by Sir</hi> James Balfour <hi>of</hi> Kinaird <hi>Knight-Baronet, and Lyon King at Arms, kept in his Famous Study of</hi> Denmilne:</p>
+            <p>And now expoſed to SALE.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>burgh,</hi> Printed by the Heirs and Succeeſſors of <hi>Andrew <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nderſon,</hi> Printer to the King's moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty <hi>Anno DOM</hi> 1698.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:52421:2" rendition="simple:additions"/>
+            <pb facs="tcp:52421:2"/>
+            <head>Advertiſement.</head>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r James Balfour</hi> of <hi>Kinaird</hi> having exerc'd the Office of Lyon King at Armes, above the ſpace of 20 years, (<hi>viz.</hi> from the beginning of 1630, till he was thruſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the uſurper <hi>Oliver Cromwel</hi>) was thereby, together <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his careful Collecting, and diligent peruſing of a vaſt number <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncient and curious Manuſcripts, very well informed <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>rning the Records of the Kingdom, relating to ancient <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ties, and other points of Hiſtory, whereupon he deſigned <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ite Annals of what had paſsed, and accordingly he wrote Volums which are here among theſe <hi>Manuſcripts;</hi> The <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> begins at <hi>Malcom</hi> the third, and ends at the Death of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>James</hi> the ſixth. The other begins with King <hi>Charles</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> firſt, and continues till the year 1642. He deſigned a <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Volumn containing ths reſt of the years of King <hi>Charles</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rſt his Reign; but whether or not be finiſhed the ſame, it <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>certain; However, being a Learned and inquiſitive <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>eman, he purchaſed the vaſt Collection of <hi>Manuſcripts,</hi> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ined in this <hi>Catalogue,</hi> of all Subjects; History, Mat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of State, Herauldry, Philoſophy, Medicine, Law, Di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>y, <hi>&amp;c.</hi> Many of them in Parchment, and more Ancient <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Printing; ſeverals of them are curiouſly Guilded and <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed. Diverſe of them are Autographs and Original Papers <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Latter times, affoording thereby great Light to Hiſtory, and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ranſactions of theſe Times: He left alſo behind him a <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Library of rare and curious Printed Books, a <hi>Catalogue</hi> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>reof will be ſhortly Printed and publick Advertiſement <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when and where theſe <hi>Manuſcripts,</hi> together with his <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Printed <hi>Books</hi> are to be expoſed to publick Sale.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:52421:3"/>
+            <pb n="5" facs="tcp:52421:3" rendition="simple:additions"/>
+            <list>
+               <head>Ancient Hiſtories <hi>M. S.</hi>
+               </head>
+               <item>LIber Carthuſianorum de Perth<g ref="char:punc">▪</g> ſeu Scotichronicon abbreviatum. 4<hi>t<hi rend="sup">o</hi> It beginneth at the riſe of the Na<g ref="char:EOLhyphen"/>tion, and endeth with an Epitaph upon King</hi> James <hi>the firſt.</hi>
+               </item>
+               <item>
+                  <hi>Andrew Winton</hi> his Chronicle in Scotiſh verſe, a large and thick 4<hi>t<hi rend="sup">o</hi>
+                  </hi> conſiſting of 212 Chapters<g ref="char:punc">▪</g> beginneth at the Creation, and is continued till the year of our Redemption 1407. with it is joined</item>
+               <item>Brevis Chronica in proſe from the riſe of our Nation to King <hi>Robert Stuart,</hi> who ſucceeded to King <hi>David.</hi>
+               </item>
+               <item>Beda de Geſtis Anglorum 4<hi rend="sup">to</hi> in Parchment.</item>
+               <item>Chronica Henrici Archidiaconi Huntingdoniae 4<hi rend="sup">to</hi> in Parchment in 7 Books, it containeth the Hiſtory of Great-<hi>Britain</hi> from <hi>Julius Caeſar</hi> his entry to it, till King <hi>Stephen</hi> of <hi>England's</hi> Reign.</item>
+               <item>Chronica Fratris Martini ordinis Praedicatorum<g ref="char:punc">▪</g> 4<hi>t<hi rend="sup">o</hi>
+                  </hi> in Parchment, a Româ conditâ ad <hi>annum</hi> Chriſti 1277. with this is joyned</item>
+               <item>Hiſtoria <hi>Alexandri Macedoniae</hi> Regis Metrica per Wiliki<g ref="char:EOLhyphen"/>um Civem Spoletanum in Parchment too.</item>
+               <item>Suetonii Hiſtoria 12 Caeſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rum Primorum.</item>
+               <item>Egeſippi Hiſtoria, a Paſſione domini ad ſuam aetatem 4<hi>t<hi rend="sup">o</hi>
+                  </hi> Parchment.</item>
+               <item>Eutropii Hiſtoria.</item>
+               <item>Heraclides Epiſcopus de Vitis ſanctorum Patrum 4<hi>t<hi rend="sup">o</hi>
+                  </hi> Parchment, with this is joyned</item>
+               <item>Hiſtoria Perſecution is Africanae tempore Genſerici &amp; Honorii Regum Vandalorum, a victore Epiſcopo Patriae Vitenſis parchment.</item>
+               <item>Hiſtoria Belli Trojani Daretis Phyrygii ex tranſlatione Cornelii Nepotis 4<hi>t<hi rend="sup">o</hi>
+                  </hi> parchment.</item>
+               <item>Raimundi Martiani Clavis Commentariorum Caii Julii Caeſaris.</item>
+               <item>
+                  <pb n="6" facs="tcp:52421:4" rendition="simple:additions"/>
+15 Galfridi Arthuri Monumentenſis Hiſtoria de Brittonu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> origine &amp; rebus geſtis 4<hi>
+                     <hi rend="sup">to,</hi>
+                  </hi> parchment.</item>
+               <item>16 Chronicon Volumen a tempore <hi>Alexandri</hi> Magni a primum Chriſtianum ſaeculum, a long Roll, writte<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in parchment, and curlouſly drawn in various F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>gures.</item>
+            </list>
+            <list>
+               <head>Modern Hiſtories <hi>M. S.</hi>
+               </head>
+               <item>HEnry Maule of Melgum his Hiſtory of the Picts, F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lio.</item>
+               <item>2 Vitae pontificum Scti Andreae, fol.</item>
+               <item>3 Annales from King <hi>Malcolme</hi> the 3<hi>
+                     <hi rend="sup">d.</hi>
+                  </hi> his time, till th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> death of King <hi>James</hi> the ſixth written by Sir <hi>Jam<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Balfour</hi> Lyon King at Arms, folio.</item>
+               <item>4 Annalles of what was done in King <hi>Charles</hi> the 1st h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> time from the beginning of his Reign till the ye<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 1641, written by Sir <hi>James Balfour,</hi> folio.</item>
+               <item>5 A Deſcription of the Weſtern Iſlles of <hi>Scotland</hi> by M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Donald Monro</hi> Dean of the Iſles: with this is joyned</item>
+               <item>6 The Genealogie of the chief Clanes of the Iſles by th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſame.</item>
+               <item>7 Deſcriptio inſularum Orchadiarum per <hi>Jo. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en</hi> re<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dente there, <hi>anno</hi> 1529.</item>
+               <item>8 Captain <hi>John Anderſon</hi> his fourth Voyage to the Eaſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Indies,</hi> containing the Courſe he kept, the Winds an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Weather by the way, and Deſcription of the chi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Places frequented by the <hi>Europeans,</hi> folio.</item>
+            </list>
+            <list>
+               <head>Manuſcripts concerning the Affairs of th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Church of <hi>Scotland.</hi>
+               </head>
+               <item>
+                  <list>
+                     <head>Folio.</head>
+                     <item>1 THe Affairs of the Church of <hi>Scotland,</hi> from the ye<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 1610, to the year 1625, 1 Vol.</item>
+                     <item>2 THe Affairs of the Church of <hi>Scotland,</hi> from the ye<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 1610, to the year 1625, 2 Vol.</item>
+                     <item>3 THe Affairs of the Church of <hi>Scotland,</hi> from the ye<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 1610, to the year 1625, 3 Vol.</item>
+                  </list>
+               </item>
+               <item>4 The Proceedings of the General-Aſſembly, holden <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Glaſgow, November</hi> 21. 1638, folio.</item>
+               <item>
+                  <pb n="7" facs="tcp:52421:4" rendition="simple:additions"/>
+An Exhortation of the particular Kirks of <hi>Scotland</hi> to the Kirk at <hi>Edinburgh,</hi> folio.</item>
+            </list>
+            <list>
+               <head>Ancient Charters and Records.</head>
+               <item>A Collection of very Ancient Charters Granted by our Kings and others, battered upon a Book folio, moſt of them parchment.</item>
+               <item>Antiquum Chartularium Monaſterii Sanctae Trinitatis de Sconâ, 4<hi>
+                     <hi rend="sup">to</hi>
+                  </hi> parchment.</item>
+               <item>Liber Sctae Mariae de Balmerinoch; 4<hi>
+                     <hi rend="sup">to</hi>
+                  </hi> parchment.</item>
+               <item>Liber Sctae Mariae de Dryburgh, 4<hi>
+                     <hi rend="sup">to.</hi>
+                  </hi>
+               </item>
+               <item>Liber Arbrothienſis, 4<hi>
+                     <hi rend="sup">to</hi>
+                  </hi> parchment.</item>
+               <item>Chartularium Magnum Monaſterii de Aberbrothock, folio, parchment.</item>
+               <item>Liber Monaſterii Fermelodunenſis, folio parchment.</item>
+            </list>
+            <list>
+               <head>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anuſcripts relating to Government and Policy.</head>
+               <item>ARticles and orders anent the Watches kept upon the Engliſh fide of the Borders in <hi>Edward</hi> the ſixth his time, folio.</item>
+               <item>Tractatus Scotici, or the Leagues betwixt <hi>Scotland</hi> and <hi>England</hi> from the year 1069, to the year 1603, folio.</item>
+               <item>The Account of what paſt when the Prince <hi>Charles</hi> was in <hi>Spain,</hi> folio.</item>
+               <item>The Caſtilian Project againſt <hi>England,</hi> with an <hi>Adver<g ref="char:EOLhyphen"/>tiſement</hi> for preventing thereof, with a View of Great-<hi>Britain,</hi> and a Compariſon between <hi>Britain</hi> and <hi>Spain,</hi> with Directions for a Counſel of War for the raiſing of 25000 Foot, and 5000 Horſe.</item>
+               <item>Epiſtolae &amp; Mandata, per Reges, Optimates &amp; Magi<g ref="char:EOLhyphen"/>ſtratus Scotiae ab <hi>anno</hi> 1505, ad <hi>annum</hi> 1626, folio.</item>
+               <item>Epiſtolae a Regibus et Gubernatoribus Scotiae ad Im<g ref="char:EOLhyphen"/>peratorem, Papam et ſtatus Europae ab <hi>anno</hi> 1500, ad <hi>annum</hi> 1525, 4<hi>
+                     <hi rend="sup">to.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <pb n="8" facs="tcp:52421:5"/>
+7 Epiſtolae a Jacobo 5<hi>
+                     <hi rend="sup">to</hi>
+                  </hi> Rege, Marià Reginâ &amp; Guber<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>toribus ad <hi>annum</hi> Chriſti 1545. 4<hi>
+                     <hi rend="sup">to.</hi>
+                  </hi>
+               </item>
+               <item>8 Secreta Secretorum, ſive de Principis Inſtitutione Alexr. Magnum per Ariſtotelem; ex Graeco in L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tinum Sermonem tranſlata per Joannem filium Pat<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cii, 4<hi>
+                     <hi rend="sup">to</hi>
+                  </hi> parchment.</item>
+               <item>9 Le Livre des meurs, du Gouvernement des Seig<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ours, Appellez les Secrets des Secrets de Ariſto<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Tranſlatéz en Francois, 4<hi>
+                     <hi rend="sup">to.</hi>
+                  </hi>
+               </item>
+            </list>
+            <list>
+               <head>The following <hi>Manuſcripts,</hi> are moſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>them the Original Papers Collected by S<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>James Balfour,</hi> and Bound in Books u<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>der theſe Titles.</head>
+               <item>1 LEtters to King <hi>James</hi> the 6<hi>th.</hi> from his Queen <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his Children, folio.</item>
+               <item>2 Letters to King <hi>James</hi> the 6<hi>th.</hi> from Learned Men <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>3 Negotiations with the Kings of <hi>Poland, Sweden,</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> diverſe German Princes and States, Reg. Jacobo <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; <hi>Carolo,</hi> 1. folio.</item>
+               <item>4 Negotiations with <hi>Denmark</hi> and <hi>Norway,</hi> Reg. Jac<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 6<hi>to</hi> &amp; Carolo 1. folio.</item>
+               <item>5 Negotiations with <hi>France,</hi> Reg Ja. 6<hi>to</hi> &amp; Carolo 1. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>6 Several publick Papers relating to the Scots Guard <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>France,</hi> folio.</item>
+               <item>7 Negotiations with <hi>Spain</hi> Reg. Jac. 6<hi>to,</hi> et Carolo 1. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>8 Negotiations with Italian Princes Reg. Jaco. 6<hi>to,</hi> fo<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>.</item>
+               <item>9 A Memorial anent <hi>Henry</hi> the 4<hi>
+                     <hi rend="sup">th</hi>
+                  </hi>th in <hi>France</hi> by the P<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dent <hi>Jeanin,</hi> folio.</item>
+               <item>10 Treaties in French betwixt <hi>France</hi> and ſeveral o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Kingdoms and States, folio, in French.</item>
+               <item>11 Treaties, Inſtructions, Powers, Commiſſions, R<gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cations, and other Acts of the French Court, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in French.</item>
+            </list>
+            <list>
+               <pb n="9" facs="tcp:52421:5"/>
+               <head>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anuſcripts</hi> relating to the Affairs of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> and <hi>England</hi> the time of Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> King <hi>James</hi> the 6<hi>th,</hi> and King <hi>Charles</hi> the firſt.</head>
+               <item>THe Account of the Government of <hi>England:</hi> with this is joyned</item>
+               <item>A Diſcourſe anent the Marriage of the Queen, and other Matters. folio</item>
+               <item>Engliſh Buſſineſs Reginâ <hi>Eliſabetha,</hi> folio.</item>
+               <item>Negotiations with <hi>England,</hi> Reg. Elizabetha, et Jaco. 6. fol. 1. Vol.</item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tate Buſſineſs concerning the Weſtern Iſles ab <hi>anno</hi> 1606, ad <hi>annum</hi> 1616. folio.</item>
+               <item>Engliſh Buſſineſs Reg. Jaco. 6. fol. Vol. 1.</item>
+               <item>Engliſh Buſſineſs Reg. Jaco. 6. &amp; Carolo 1. fol. Vol. 1.</item>
+               <item>Engliſh Buſſineſs Reg. Jac. 6. et Carolo 1. fol. Vol. 2<hi>d.</hi>
+               </item>
+               <item>The Plea againſt the Earl of <hi>Briſtol</hi> for his Negotiations in <hi>Spain,</hi> and his Defence, folio.</item>
+               <item>State Buſſineſs the years 1603, 1604, 1605, 1606, Reg. Jaco. 6. folio.</item>
+               <item>State Buſſineſs the years 1607, and 1608, Reg. Jaco. 6. folio.</item>
+               <item>State Buſſineſs the years 1609, 1610, 1611, Reg. Ja. 6. folio.</item>
+               <item>State Buſſineſs the years 1612, and 1613, folio.</item>
+               <item>State Buſſineſs the years 1614, fol.</item>
+               <item>State Buſſineſs the years 1615, Reg. Jaco. 6. folio.</item>
+               <item>State Buſſineſs the years 1616, Reg. Jaco. 6. folio.</item>
+               <item>State Buſſineſs the years 1617, and 1618, Reg. Jaco. 6. folio.</item>
+               <item>State Buſſineſs the years 1619, and 1620, Reg. Jaco. 6. folio.</item>
+               <item>State Buſſineſs the years 1621, 1622, 1623, Reg. Ja. 6. folio.</item>
+               <item>State Buſſineſs the years 1624, and 1625, Reg. Jaco. 6. folio.</item>
+            </list>
+            <list>
+               <pb n="10" facs="tcp:52421:6"/>
+               <head>State Buſſineſs Rege <hi>Carolo 1.</hi>
+               </head>
+               <item>1 SEcretary <hi>Alexander</hi> his Regiſter of King <hi>Charles</hi> t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> firſt his Letters, folio.</item>
+               <item>
+                  <list>
+                     <item>2 A Conference betwixt King <hi>Charles</hi> the firſt, and t<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Scotiſh Counſel <hi>January</hi> 1626: with that <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Joyned</item>
+                     <item>3 The Copie of Chancellor <hi>Hay</hi> his Speech the 16<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>January</hi> 1626.</item>
+                     <item>4 The Conſideration of Sir <hi>John Scot's</hi> Articles an<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the Seſſion.</item>
+                     <item>5 A Copie of the Letter ſent by Mr. <hi>Robert Bruce</hi> to <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Marquiſs of <hi>Hamilton</hi> a little after the 17 <hi>Dec<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <g ref="char:EOLunhyphen"/>ber</hi> 1597, with his Account of the Tumult th<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                     </item>
+                     <item>6 The firſt Beginning and Proceedings of our Pre<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>terian Diſcipline at <hi>Geneva,</hi> with the Proceedi<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> of our firſt Reformation of Religion, written <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>Bancroft</hi> Arch-Biſhop of <hi>Canterbury</hi> in <hi>anno</hi> 16<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </item>
+                     <item>7 A Satire againſt <hi>Scotland.</hi>
+                     </item>
+                     <item>8 The Anſwer to it.</item>
+                  </list>
+               </item>
+               <item>9 Some Tranſactions <hi>anno</hi> 1629, Reg. Carolo i. fol<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>10 State Buſineſs the years 1636, 1637, 1638, 1639, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Carolo 1. fol.</item>
+               <item>11 State Buſineſs the years 1640, and 1641, Reg. Car<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 1. fol.</item>
+               <item>12 Miſcelany papers, fol.</item>
+               <item>13 Liber Domicilii Domini noſtri Regis <hi>anno</hi> 1525, <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cobo Colvillo de Uchiltree miniſtrante in of<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> Computorii Rotulatorum, folio.</item>
+            </list>
+            <list>
+               <head>Law Manuſcripts.</head>
+               <item>
+                  <list>
+                     <item>1 THe old Laws Regiam Majeſtatem 4<hi>t<hi rend="sup">o.</hi>
+                        </hi> with <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> are joyned</item>
+                     <item>2 A Treatiſe of Tailȝie.</item>
+                     <item>3 Leges Marchiarum.</item>
+                     <item>
+                        <pb n="11" facs="tcp:52421:6"/>
+Acta Roberti 3.</item>
+                     <item>The form of Falſing doom.</item>
+                     <item>Expoſitio quorundam Vocabulorum</item>
+                     <item>Forms of Proceſs</item>
+                     <item>Tractatus Coronae</item>
+                     <item>Forma Defenſionis Minoris aetatis contra ſuam par<g ref="char:EOLhyphen"/>tem adverſam</item>
+                     <item>The Form of ſhowing of Holding</item>
+                     <item>The Courts</item>
+                     <item>Proceſſus purpruſturae</item>
+                     <item>De quatuor modis tenendi terras de Rege</item>
+                     <item>Modus duelli, or the manner of Battle within Liſts</item>
+                     <item>Iter Juſticiarii</item>
+                     <item>De Tutoribus &amp; Curatoribus</item>
+                     <item>Quibus cauſis amittitur Feudum, and other Queſti<g ref="char:EOLhyphen"/>ons reſolved</item>
+                     <item>Conſtitutio de Mercatura.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>in Parchment 12.</head>
+                     <item>Magna Carta </item>
+                     <item>Carta de Foreſtis</item>
+                     <item>Commentarius in eas</item>
+                  </list>
+               </item>
+               <item>Leges Ludovici Regis M. S. 8<hi>vo</hi> parchment</item>
+               <item>Treaties anent Scots Merchandiſe and their Meaſure, Parchment 12</item>
+               <item>Stephani Paterſoni Notarii prothologus ſive Regi<g ref="char:EOLhyphen"/>ſtrum
+<list>
+                     <head>Folio</head>
+                     <item>Vol. 1.</item>
+                     <item>Vol. 2.</item>
+                     <item>Vol. 3.</item>
+                     <item>Vol. 4.</item>
+                  </list>
+               </item>
+               <item>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>o. Lyciothin Notarii Regiſtrum folio</item>
+               <item>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>o. Philp Notarii Regiſtrum folio</item>
+               <item>Notarii Regiſtrum folio</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Manuſcripts</hi> concerning Herauldry.</head>
+               <item>
+                  <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>Outhhampton's</hi> Genealogie de Angleterre, folio</item>
+               <item>A large Volumn folio, with the Coats of Arms of the Kings, and of the moſt of the Noble Families in <hi>England,</hi> and the Coats of Arms of the <hi>Scotiſh</hi>
+                  <pb n="12" facs="tcp:52421:7"/>Kings, beginning at King <hi>Robert Bruce,</hi> and rea<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ing to King <hi>Charles</hi> the firſt, and the Arms of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Principal Nobles in <hi>Scotland</hi> in their proper colo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> well done with the Names of them, they bel<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to</item>
+               <item>3 L'ordre de Chevalrie par Simphorien <hi>Champiere</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> French: folio, concerning the order of Knightho<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> written <hi>anno</hi> 1634.</item>
+               <item>4 The Original Inſtitutions of the Principal Order <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Colliers</hi> in their collour, with their Moters by <hi>
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>liam Segar</hi> Garter in parchment 4<hi>
+                     <hi rend="sup">to</hi>
+                  </hi>
+               </item>
+               <item>
+                  <list>
+                     <head>parchment</head>
+                     <item>5 Bartolus de Saxoferrato de Signis et Armis</item>
+                     <item>6 Nicol<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>us Upton de Militiâ et No<g ref="char:EOLhyphen"/>bilitate <hi>liber</hi> 1.</item>
+                     <item>7 De Bellis &amp; actibus exercitatis in eiſdem.</item>
+                     <item>8 De Nobilitate colorum in Armis depictorum.</item>
+                     <item>9 Regulae per quas co<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ores armo<g ref="char:EOLhyphen"/>rum er ipſa Arma clare diſcer<g ref="char:EOLhyphen"/>nuntur, with ſeveral Coats of Arms in their colours.</item>
+                  </list>
+               </item>
+               <item>10 The Statutes and Ordinances of the Order of St. <hi>G<gap reason="illegible" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                  </hi> named the Garter, 4<hi>
+                     <hi rend="sup">to</hi>,</hi> in parchment</item>
+               <item>11 An Account of the Office of an Herauld, 4<hi>
+                     <hi rend="sup">to</hi>
+                  </hi>
+               </item>
+               <item>12 Scrimgeour of Herauldry and Combats, folio</item>
+               <item>13 A full Account of the Office of Heraulds, and o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King at Arms their Inſtitution, Habite and Fee <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Emoluments of Her<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulds, Purſevants, and Meſſen<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> folio, with which i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> joyned</item>
+               <item>14 A Treatiſe de Gubernatione et Reformatione <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ariorum Armorum. H R. V.</item>
+               <item>15 De Officio Comitis Mariſcalli Angliae</item>
+               <item>15 The Copie of the Commiſſion of the Earl <hi>Mariſ<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi> the Kingdom of <hi>Scotland,</hi> and other Matters.</item>
+            </list>
+            <list>
+               <pb n="13" facs="tcp:52421:7" rendition="simple:additions"/>
+               <head>Manuſcripts of Theologie.</head>
+               <item>BIblia Scti Hieronimi Latina, Parchment, Folio.</item>
+               <item>An New Teſtament in Engliſh, parchment, 4<hi>
+                     <hi rend="sup">to.</hi>
+                  </hi>
+               </item>
+               <item>Bibliorum Summa per Jo. de Vaſco, parchment, 4<hi>
+                     <hi rend="sup">to.</hi>
+                  </hi>
+               </item>
+               <item>A Syſtem of Theologie in a Roll of Parchment</item>
+               <item>Manuale Sancti Davidis 1. Scotorum Regis, 8<hi>vo,</hi>
+               </item>
+               <item>
+                  <list>
+                     <head>8<hi>vo.</hi>
+                     </head>
+                     <item>Paraphraſis, in Pſalmum 119</item>
+                     <item>Meditationes Theologicae</item>
+                     <item>Dialogus</item>
+                  </list>
+               </item>
+               <item>Pſalterium Abbatiae de deer, parchment.</item>
+               <item>Manuale praecum, parchment</item>
+               <item>D. Alexandri Scoti nonae diſtinctiones ordinis Ciſter<g ref="char:EOLhyphen"/>tientium, parchment</item>
+               <item>Pſalterium Recardi Mariſhel Abbatis de Culroſs, parch<g ref="char:EOLhyphen"/>ment, 12.</item>
+               <item>Manuale Reginae Eliſabethae Bourchier, parchment, 4<hi>
+                     <hi rend="sup">to.</hi>
+                  </hi>
+               </item>
+               <item>Oculus Sacredotum Magiſtri Roberti Groſſeti, parch<g ref="char:EOLhyphen"/>ment, 4<hi>
+                     <hi rend="sup">to.</hi>
+                  </hi>
+               </item>
+               <item>Anonimi flores Summarum, parchment, 8<hi>vo.</hi>
+               </item>
+               <item>
+                  <list>
+                     <head>4<hi rend="sup">to</hi>
+                     </head>
+                     <item>Boetius de Trinitate Parchment,</item>
+                     <item>Auguſtinus de cognitione verae vitae Parchment,</item>
+                     <item>— De Trinitate Parchment,</item>
+                     <item>— De Paenitentiâ Parchment,</item>
+                     <item>— De Spiritu, <hi>&amp;c.</hi> Parchment,</item>
+                     <item>Anſelmi tractatus varil Parchment,</item>
+                     <item>Conflictus Babilonis et Jeruſalem. Parchment,</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>parchment, folio.</head>
+                     <item>Bedae venerabilis opuſcula</item>
+                     <item>Origenis et aliorum Homiliae</item>
+                     <item>Deciſio Wil. Rufi, Regis Angliae controverſiae de terris de Fracheham.</item>
+                  </list>
+               </item>
+               <item>Roberti Groſthead Epiſcopi Lincolnienſis loci com<g ref="char:EOLhyphen"/>munes, parchment, 8<hi>vo.</hi>
+               </item>
+               <item>
+                  <list>
+                     <head>parchment 4<hi>
+                           <hi rend="sup">to.</hi>
+                        </hi>
+                     </head>
+                     <item>Rabanus de corpore et Sanguine Chriſti</item>
+                     <item>Vinamundus de corpore Domini</item>
+                     <item>Sermo Auguſtini de Sacramento altaris</item>
+                     <item>Liturgia Sancti Columbani Abbatis.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <pb n="14" facs="tcp:52421:8" rendition="simple:additions"/>
+               <head>Miſcellany MAN<g ref="char:V">Ʋ</g>SCRIPTS, MAN<g ref="char:V">Ʋ</g>SCRIPTS of Medicine.</head>
+               <item>1 GAleni Opuſcula, 4<hi rend="sup">to.</hi>
+               </item>
+               <item>
+                  <list>
+                     <head>parchme<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> 4<hi>
+                           <hi rend="sup">to.</hi>
+                        </hi>
+                     </head>
+                     <item>2 Commentarii Joannicii in libros Galeni de corpore humano</item>
+                     <item>3 Ejuſdem Commentarii in ſex primos li<g ref="char:EOLhyphen"/>bros Aphoriſmorum Hippocratis.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>parchme<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> 4<hi>
+                           <hi rend="sup">to.</hi>
+                        </hi>
+                     </head>
+                     <item>4 Diſpenſatorium Nicolai</item>
+                     <item>5 Summa M. Walteri de Ayelon de doſi<g ref="char:EOLhyphen"/>bus Medicamentorum</item>
+                     <item>6 Praxis Medicinae Anonimi, French.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head> parchment, 4<hi>
+                           <hi rend="sup">to.</hi>
+                        </hi>
+                     </head>
+                     <item>7 Macer de Virtutibus Herbarum</item>
+                     <item>8 Euax Rex Arabum de Lapidibus</item>
+                     <item>9 Liber Graduum Medicinae</item>
+                     <item>10 Anonimus de Medicinâ.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>parchment, 4<hi>
+                           <hi rend="sup">to•</hi>
+                        </hi>
+                     </head>
+                     <item>11 Liber Serapionis de Simplicibus</item>
+                     <item>12 Conſtantini Monachi Theorica et</item>
+                     <item>13 — Practica.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>MAN<g ref="char:V">Ʋ</g>SCRIPTS of Philoſophie.</head>
+               <item>1 ARiſtote de diete, 8<hi>vo,</hi> parchment.</item>
+               <item>2 Franciſus Petrarcha de Remediis utrius Fortunae, parchment, 4<hi>
+                     <hi rend="sup">to.</hi>
+                  </hi>
+               </item>
+            </list>
+            <list>
+               <head>ORATORS MAN<g ref="char:V">Ʋ</g>SCRIPTS.
+parchm<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 8<hi>vo.</hi>
+               </head>
+               <item>1 INvectivarum Ciceronis contra Cateli<g ref="char:EOLhyphen"/>nam <hi>lib.</hi> 3.</item>
+               <item>2 Epiſtola Saluſtii ad Ciceronem</item>
+               <item>3 Reſponſio Ciceronis ad Epiſtolam Saluſtii.</item>
+            </list>
+            <list>
+               <pb n="15" facs="tcp:52421:8" rendition="simple:additions"/>
+               <head>POETS MAN<g ref="char:V">Ʋ</g>SCRIPTS.</head>
+               <item>
+                  <list>
+                     <head>parchment, 8<hi>vo.</hi>
+                     </head>
+                     <item>OVidii Liber de Faſtis</item>
+                     <item>Claudiani Varia Poemata</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>parchment, 8<hi>vo.</hi>
+                     </head>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>apinii Statii Thebaidos libri 12.</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>irgilii Aenëidos libri.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Parchment, 8<hi>vo.</hi>
+                     </head>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>erſius</item>
+                     <item>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ufi Avieni Fabulae</item>
+                     <item>Vill. Bibliarii opuſcula.</item>
+                  </list>
+               </item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uvenalis, parchment, 4<hi>
+                     <hi rend="sup">to.</hi>
+                  </hi>
+               </item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edulii opera, parchment, 8<hi>vo.</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erentius, parchment, 4<hi>
+                     <hi rend="sup">to.</hi>
+                  </hi>
+               </item>
+               <item>Alani de Infulis Anticlaudianus, parchment, 8<hi>vo.</hi>
+               </item>
+               <item>Rentale Epiſcopatus Moravienſis.</item>
+               <item>Ancient Records of donations for Religious Houſes 2 Volumns 4<hi>
+                     <hi rend="sup">to.</hi>
+                  </hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
